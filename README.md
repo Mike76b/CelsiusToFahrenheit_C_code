@@ -1,6 +1,6 @@
 # CelsiusToFahrenheit_C_code
 
-C code
+`C` code
 
 CS50 homework:
 
